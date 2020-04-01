@@ -1,7 +1,10 @@
 # machine-learning-coursera
 
 > Apprentissage automatique
->      by Université de Stanford
+
+>by Université de Stanford
+
+> link : https://www.coursera.org/learn/machine-learning
 
 
 ## À propos de ce cours
