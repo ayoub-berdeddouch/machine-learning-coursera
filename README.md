@@ -18,4 +18,11 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 > Andrew Ng, CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; formerly Chief Scientist,Baidu and founding lead of Google Brain
 
-Also you will find some of the exercices of this course.
+Exercices : 
+
+you will find them in the folders above.
+
+## Software:  
+
+> Octave
+> Restfull / SOAP
